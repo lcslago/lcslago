@@ -1,6 +1,6 @@
 <hr>
 
-[![Top Langs](https://readme-stats-forked.vercel.app/api/top-langs/?username=lcslago&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-stats-forked-v2.vercel.app/api/top-langs/?username=lcslago&layout=compact&theme=transparent)](https://github.com/lcslago/readme-stats-forked)
 
 <picture>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="40" height="40"></picture> <picture><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="40" height="40"></picture> <picture><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" width="40" height="40"></picture>
